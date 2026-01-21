@@ -1,0 +1,15 @@
+name: ejemplotwitter   # nombre del proyecto
+description: A sample command-line application.  #Descripcion del proyecto
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.2.3  #Indica que el proyecto requiere Dart SDK versión 3.2.3 o superior.
+
+# Add regular dependencies here.
+dependencies:
+  spotify: ^0.12.0  #Librería para interactuar con la API de Spotify, para credencial, buscar y filtrar cancaciones
+
+dev_dependencies:
+  lints: ^2.1.0  #Proporciona reglas para mantener un código limpio.
+  test: ^1.24.0   #Herramienta para escribir y ejecutar pruebas en Dart.
