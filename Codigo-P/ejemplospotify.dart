@@ -4,7 +4,7 @@
 // 1. contar numero de canciones con popularidad mas de 80
 // 2. contar numero de canciones totales ( todo lo que se llena en el stream) pages -> items 
 // 3. Imprimir nombre de artistas ( ya hecho), genero,album, imagen 
-// 4. Numero de paginas, Cambiar para que me de x cantidad de paginas con x cantidad de canciones 
+// 4.--- Numero de paginas, Cambiar para que me de x cantidad de paginas con x cantidad de canciones 
 // 5. DEBER: Quitar el stream y usar usar pages consultar directamente las paginas y recorrer las canciones
 
 import 'dart:async'; //herramientas para trabajar con programación asincrónica 
