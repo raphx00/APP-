@@ -1,5 +1,5 @@
 void main() {
   dynamic variable = 'Hello World';
-  variable = () => 'Hello from a variable';
+  variable = () => 'Hello from a variabke';
   print( variable() );
 }
