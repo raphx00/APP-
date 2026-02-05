@@ -1,5 +1,5 @@
 void main() {
-  var myName = 'This variable is not used';
+  var myName = 'World';
 
   print('Hello, $myName!');
   print('Hello, ${myName.toUpperCase()}');
